@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Toyota",
+      "category": "Cars",
+      "freshness": "Refurbished",
+      "price": 1000,
+      "comment": "cars",
+      "date": "2022-07-02T17:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "toyota",
+      "category": "Cars",
+      "freshness": "Second Hand",
+      "price": 12000,
+      "comment": "dsa",
+      "date": "2022-06-30T17:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "jeruk",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 122,
+      "comment": "adak",
+      "date": "2022-07-19T17:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
