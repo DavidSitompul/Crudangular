@@ -1,16 +1,7 @@
 {
   "productList": [
     {
-      "productName": "Toyota",
-      "category": "Cars",
-      "freshness": "Refurbished",
-      "price": 1000,
-      "comment": "cars",
-      "date": "2022-07-02T17:00:00.000Z",
-      "id": 4
-    },
-    {
-      "productName": "toyota",
+      "productName": "toyotaaha",
       "category": "Cars",
       "freshness": "Second Hand",
       "price": 12000,
@@ -26,6 +17,15 @@
       "comment": "adak",
       "date": "2022-07-19T17:00:00.000Z",
       "id": 6
+    },
+    {
+      "productName": "apel",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 900,
+      "comment": "akakak\n",
+      "date": "2001-08-31T17:00:00.000Z",
+      "id": 7
     }
   ],
   "comments": [
